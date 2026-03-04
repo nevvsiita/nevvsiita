@@ -1,7 +1,8 @@
 <div align="center">
 <div estilo="alineación de texto: centro;">
   <!-- Imagen principal -->
-  <img src="https://github.com/user-attachments/assets/86480636-995c-4328-b921-f92ef2cda4af" ancho="900" />
+  <img src="https://github.com/user-attachments/assets/2bb1bf69-738a-4b89-821a-c8fd79805104" ancho="900" />
+
 
   <!-- Texto animado -->
   <p>
