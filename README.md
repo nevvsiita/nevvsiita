@@ -17,8 +17,8 @@
 
   <!-- Contador de visitas -->
  <div estilo="pantalla: flexionar; justificar contenido: centro; margen: px 0;">
-    <a href="https://github.com/luvxyn">
-      <img src="https://komarev.com/ghpvc/?username=aalinh&abreviado=true&color=51158C&estilo=flat" alt="Visitas a mi perfil de GitHub" ancho="120" />
+    <a href="https://github.com/nevvsiita">
+      <img src="https://komarev.com/ghpvc/?username=nevvsiita&abreviado=true&color=51158C&estilo=flat" alt="Visitas a mi perfil de GitHub" ancho="120" />
     </a>
   </div>
 <div style="text-align: center;">
