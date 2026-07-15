@@ -10,10 +10,6 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51158C&center=true&vCenter=true&width=800&separator=%3C&lines=package+goddrinksjava;%3Cpublic+class+GodDrinksJava+%7B%3Cpublic+static+void+main(String%5B%5D+args)+%7B%3C//Simulations+start...%3Cme.toggleCurrent();%3Cme.canSee(falso);%3Cme.addFeeling(%22dizzy%22);%3Cworld.timeTravelForTwo(%22AD%22%2C+617%2C+me%2C+you);%3Cworld.unite(yo%2C+you);%3Cme.escape(mundo);%3Cworld.execute(yo);%7D%7D" alt=„Título SVG" />
     </a>
   </p>
-  
-<p align="left">
-  <p>♡⸝⸝ Estoy en el proceso de aprendizaje.</p>
-<br><br>
 
   <!-- Contador de visitas -->
  <div estilo="pantalla: flexionar; justificar contenido: centro; margen: px 0;">
