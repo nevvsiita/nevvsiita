@@ -19,10 +19,10 @@
   
   <br/>
 
-  <!-- Discord Live Status Card -->
+  <!-- Discord Live Status Card (Dark theme with grey background) -->
   <div style="text-align: center;">
     <a href="https://discordapp.com/users/1196143355151790281" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/1196143355151790281?theme=light&bg=ffffff" style="width: 280px; height: auto; border: 1px solid #e1e4e8; border-radius: 10px;" alt="Discord Status" />
+      <img src="https://lanyard.cnrad.dev/api/1196143355151790281?theme=dark&bg=1e1f22" style="width: 280px; height: auto; border: 1px solid #2b2d31; border-radius: 10px;" alt="Discord Status" />
     </a>
   </div>
 </div>
