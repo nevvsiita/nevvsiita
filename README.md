@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Main Banner -->
-  <img src="https://github.com/user-attachments/assets/406facf0-1954-40e4-97b4-86aa50286cd1" width="900" style="border-radius: 15px;" alt="Proyecto nuevo" />
+  <img src="https://github.com/user-attachments/assets/eef7b9fb-577e-4dbc-9eed-991243ea4147" width="900" style="border-radius: 15px;" alt="Proyecto nuevo" />
   <br/><br/>
 
   <!-- Animated Typing SVG -->
