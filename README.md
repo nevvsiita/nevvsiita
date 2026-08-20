@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Main Banner -->
-  <img src="https://github.com/user-attachments/assets/c97d549e-2eb4-4f0c-90c9-1b2e6f89be1c" width="900" style="border-radius: 15px;" />
+  <img src="https://github.com/user-attachments/assets/8f6b2333-c50a-4786-9ab5-6d6526fd8455" width="900" style="border-radius: 15px;" />
   <br/><br/>
 
   <!-- Animated Typing SVG (Texto en Negro #000000) -->
@@ -12,7 +12,7 @@
 
   <!-- Visitor Counter (Todo Negro) -->
   
-![](https://komarev.com/ghpvc/?username=nevvsiita-github-username&color=lightgrey)
+![Discord](https://komarev.com/ghpvc/?username=nevvsiita-github-username&color=lightgrey)
 
   <!-- Discord Live Status Card (Fondo 100% transparente) -->
   <div style="text-align: center;">
