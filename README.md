@@ -11,13 +11,8 @@
   </p>
 
   <!-- Visitor Counter (Todo Negro) -->
-  <div style="display: flex; justify-content: center; margin: 15px 0;">
-    <a href="https://github.com/nevvsiita">
-      <img src="https://komarev.com/ghpvc/?username=nevvsiita&abbreviated=true&color=000000&labelColor=000000&style=flat-square" alt="Visitas a mi perfil de GitHub" width="120" />
-    </a>
-  </div>
   
-  <br/>
+![](https://komarev.com/ghpvc/?username=nevvsiita-github-username&color=lightgrey)
 
   <!-- Discord Live Status Card (Fondo 100% transparente) -->
   <div style="text-align: center;">
