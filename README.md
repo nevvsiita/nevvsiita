@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Main Banner -->
-  <img src="https://github.com/user-attachments/assets/9dab26d2-be88-45ca-a1d3-cece28b81c93" width="900" style="border-radius: 15px;" alt="Proyecto nuevo" />
+  <img src="https://github.com/user-attachments/assets/ace46565-f4ef-4a84-a918-9c7215791e28" width="900" style="border-radius: 15px;" />
   <br/><br/>
 
   <!-- Animated Typing SVG (Texto en Negro #000000) -->
@@ -22,7 +22,11 @@
   <!-- Discord Live Status Card (Fondo 100% transparente) -->
   <div style="text-align: center;">
     <a href="https://discordapp.com/users/1196143355151790281" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/1196143355151790281?theme=dark&bg=00000000" style="width: 280px; height: auto;" alt="Discord Status" />
+      <img src="https://lanyard.cnrad.dev/api/1196143355151790281?" style="width: 280px; height: auto;" alt="Discord Status" />
+
+ Provided by [`Lanyard`]
+
+[`Lanyard`]: https://github.com/Phineas/lanyard
     </a>
   </div>
 </div>
